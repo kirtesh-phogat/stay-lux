@@ -4,7 +4,7 @@ import Home from "../Pages/Home";
 import Hotels from "../Pages/Hotels";
 import Login from "../Pages/Login";
 import HotelDetails from "../Pages/HotelDetails";
-import Wishlist from "../Pages/Wishlist";
+import Wishlist from "../Pages/WishList";
 import Signup from "../Pages/SignUp";
 import BookingSummary from "../Pages/BookingSummary";
 import BookingSuccess from "../Pages/BookingSuccess";
