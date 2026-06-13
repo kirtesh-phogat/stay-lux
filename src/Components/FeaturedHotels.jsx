@@ -1,4 +1,4 @@
-import hotels from "../Data/hotels";
+import hotels from "../Data/Hotels";
 import HotelCard from "./HotelCard";
 
 const FeaturedHotels = () => {

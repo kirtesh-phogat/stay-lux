@@ -11,7 +11,7 @@ import {
   Coffee,
 } from "lucide-react";
 
-import hotels from "../Data/hotels";
+import hotels from "../Data/Hotels";
 import Navbar from "../Components/Navbar";
 import Footer from "../Components/Footer";
 import HotelCard from "../Components/HotelCard";
